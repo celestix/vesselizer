@@ -1,0 +1,4 @@
+name: Something
+base: alpine
+buildfile: .vessel
+entrypoint: /bin/sh
